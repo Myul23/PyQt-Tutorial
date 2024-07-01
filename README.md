@@ -1,4 +1,4 @@
-> ## PyQt Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램
+> # PyQt Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램
 
 - https://wikidocs.net/book/2165
 - PyQt install reference: https://velog.io/@gjdns13/Pyqt5-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0vscode
